@@ -11,3 +11,11 @@
 	font-size: 42px;
 	width: 150%;
 }
+
+.page-sidebar .sidebar-menu .menu-items > li > a > .title {
+    float: left;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 90%;
+}
